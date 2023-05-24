@@ -62,7 +62,7 @@ Com ens presenta Manovich,
 
  i és aquí on entra el segon tema que he trobat engrescador, ja que reflecteix molt bé el moment social que estem vivint, on impera la immediatesa i l’artificialitat.
 
-És el cas de les intel·ligències artificials generadores d’imatges digitals a partir de text (**Text-To-Image**). Les més famoses son [DALL-E](https://openai.com/product/dall-e-2), [Midjourney](https://www.midjourney.com/home/?callbackUrl=/app/) o [**Stable Diffusion**](https://stability.ai/stable-diffusion).
+És el cas de les intel·ligències artificials generadores d’imatges digitals a partir de text (**Text-To-Image**). Les més famoses son [DALL-E](https://openai.com/product/dall-e-2), [Midjourney](https://www.midjourney.com/home/?callbackUrl=/app/) o [**Stable Diffusion**](https://github.com/Stability-AI/stablediffusion).
 
 Ens centrarem en l'última, ja que a diferència dels altres models, aquesta és de codi lliure, cosa que fa que no es puguin limitar les imatges per generar.
 
